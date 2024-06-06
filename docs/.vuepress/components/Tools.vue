@@ -85,7 +85,7 @@ const coreTools = [
   },
   {
     title: 'Balancer Pool Buy Bot',
-    icon: '/images/toolshub/bleu-logo.svg',
+    icon: '/images/toolshub/BuyBot/bot-image.jpeg',
     details: 'Buy Alert Bot for tokens in Balancer Pools',
     link: '/tools/core/buy-bot.html',
   },
